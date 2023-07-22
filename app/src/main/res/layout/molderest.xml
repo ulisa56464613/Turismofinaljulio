@@ -22,7 +22,7 @@
         android:id="@+id/fotorest"
         android:layout_width="match_parent"
         android:layout_height="400dp"
-        android:src="@drawable/Rs1"
+        android:src="@drawable/foto"
         android:adjustViewBounds="true"
         android:scaleType="fitXY"
         app:layout_constraintBottom_toBottomOf="parent"
